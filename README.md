@@ -1,2 +1,0 @@
-# Examen_biblioteca2
-Examen_biblioteca
